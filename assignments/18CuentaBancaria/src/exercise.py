@@ -1,6 +1,6 @@
 def main():
     # escribe tu código abajo de esta línea
-    saldo = float(input("Dame el saldo del mas anterior: "))
+    saldo = float(input("Dame el saldo del mes anterior: "))
     ingresos = float(input("Dame los ingreso: "))
     egresos = float(input("Dame los egresos: "))
     cheques = int(input("Dame el número de cheques: "))
